@@ -2,7 +2,7 @@ This code represents a Telegram bot written in Python using the Telebot library,
 
 The bot creates a user interface with buttons for selecting cryptocurrencies and interacts with the exchange API to obtain the current price. This allows users to quickly and conveniently access information about the price of selected cryptocurrencies without manually entering queries or switching to other platforms. Additionally, the code rounds the price to two decimal places, enhancing readability and clarity for the user.
 <p align="center">
-  ![image](https://github.com/korek293/Telegram-bot/assets/125805835/4fa4ca3f-16ff-4369-8f7f-bddae86c0732)
+  <img src="https://github.com/korek293/Telegram-bot/assets/125805835/4fa4ca3f-16ff-4369-8f7f-bddae86c0732">
 </p>
 
 
